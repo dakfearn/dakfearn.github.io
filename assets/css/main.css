@@ -720,6 +720,11 @@ input, select, textarea {
 
 		}
 
+		#personal-logo {
+			width: 95%;
+			height: 95%;
+		}
+
 /* List */
 
 	ol {
